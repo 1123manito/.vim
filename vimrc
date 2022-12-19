@@ -62,7 +62,7 @@ endif
 map <F3> :NERDTreeToggle<CR>
 
 "打开Vim时候自动打开NERDTree
-autocmd vimenter * NERDTree
+"autocmd vimenter * NERDTree
 
 " \ + r 定位当前文件所在目录，这个很有用
 " 当前从左树进入，又要将当前目录定位到当前位置用这个
